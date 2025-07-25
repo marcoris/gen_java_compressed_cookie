@@ -1,5 +1,6 @@
 # gen_java_compressed_cookie
-Generation of a compressed java serialized cookie to read the given file when insecure deserialization.
+Generation of a compressed java serialized cookie to read the given file when insecure deserialization.  
+It uses ysoserial-all.jar from https://github.com/frohoff/ysoserial
 
 ## Usage
 ```
